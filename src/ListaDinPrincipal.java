@@ -31,7 +31,7 @@ public static void main(String[] args) {
 	System.out.println( lista.Percorre());
 	
 	System.out.println(lista.removePorPosicao(10));
-	System.out.println(lista.removePorPosicao(1));
+	System.out.println(lista.removePorPosicao(2));
 	System.out.println(lista.Percorre());
 	
 	

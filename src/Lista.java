@@ -92,9 +92,8 @@ public class Lista {
 		
 		System.out.println("Posicao: "+pos + "Cont: "+ cont);
 		
-			novo.prox=aux.prox;
-			aux.prox=novo;
-		
+			
+		aux=null;
 			
 		
 		
